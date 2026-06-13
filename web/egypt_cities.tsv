@@ -1,0 +1,41 @@
+City1	City2	distance_km	time_min	co2_kg
+Cairo	Giza	20	25	4
+Cairo	Qalyubia	25	30	5
+Cairo	Suez	134	90	25
+Cairo	Ismailia	120	80	23
+Giza	Faiyum	103	75	20
+Giza	Beni Suef	115	75	22
+Qalyubia	Sharqia	75	70	14
+Qalyubia	Menoufia	60	55	11
+Qalyubia	Dakahlia	100	90	19
+Menoufia	Gharbia	50	45	10
+Menoufia	Alexandria	110	80	21
+Menoufia	Beheira	70	65	13
+Gharbia	Dakahlia	55	50	10
+Gharbia	Kafr El Sheikh	60	55	11
+Gharbia	Beheira	70	65	13
+Dakahlia	Damietta	60	55	11
+Dakahlia	Port Said	90	65	17
+Damietta	Port Said	70	50	13
+Beheira	Kafr El Sheikh	75	70	14
+Kafr El Sheikh	Gharbia	60	55	11
+Alexandria	Beheira	55	40	10
+Alexandria	Matrouh	290	160	55
+Port Said	Ismailia	85	60	16
+Ismailia	Suez	80	55	15
+Ismailia	North Sinai	175	125	33
+Suez	South Sinai	200	150	38
+North Sinai	South Sinai	250	200	48
+Faiyum	Beni Suef	80	55	15
+Beni Suef	Minya	115	75	22
+Minya	Assiut	165	110	31
+Assiut	Sohag	110	75	21
+Sohag	Qena	110	75	21
+Qena	Luxor	60	40	11
+Luxor	Aswan	210	150	40
+Qena	Red Sea	220	155	42
+Aswan	Red Sea	620	440	118
+Red Sea	South Sinai	400	265	76
+Matrouh	New Valley	900	635	171
+New Valley	Assiut	370	260	70
+New Valley	Aswan	430	305	82
