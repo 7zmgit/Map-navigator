@@ -14,7 +14,7 @@ A map navigation system for the 27 governorate capitals of Egypt, developed in F
 
 ## What it does
 
-- finds the shortest path between any two capitals, optimized by distance (km), travel time (min), or CO2 emissions (kg)
+- finds the shortest path between any two governorate capitals, optimized by distance (km), travel time (min), or CO2 emissions (kg)
 - builds the Minimum Spanning Tree; that is, the network of roads that connects all 27 capitals and is cheapest according to on one of the above metrics.
 
 ---
